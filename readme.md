@@ -1,11 +1,12 @@
-### 👋 Hi there.
+### DevOps Engineer
+- I'm Working at Welt Corp
 
-- I live in Republic of Korea
-- I'm Working in Welt Corp as DevOps Engineer
-
-### 🌱 Interest
-- 🙂 Backend
-- 🛠 DevOps CI/CD, Docker, K8s, Monitoring
+### Interest
+- DevOps Culture
+- CI/CD
+- Docker
+- Kubernetes
+- Monitoring
 
 ---
 
